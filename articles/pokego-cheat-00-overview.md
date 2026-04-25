@@ -3,7 +3,7 @@ title: "ポケモンGOチート10年史【全体概観】2016〜2026"
 emoji: "🗺️"
 type: "tech"
 topics: ["pokemongo", "gaming", "history", "spoofing", "security"]
-published: false
+published: true
 ---
 
 :::message

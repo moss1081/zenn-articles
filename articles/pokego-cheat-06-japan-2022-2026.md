@@ -3,7 +3,7 @@ title: "ポケモンGOチート史：日本編 2022〜現在【GOフェスト大
 emoji: "🏯"
 type: "tech"
 topics: ["pokemongo", "gaming", "history", "japan", "spoofing"]
-published: false
+published: true
 ---
 
 :::message

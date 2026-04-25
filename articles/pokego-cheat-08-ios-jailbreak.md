@@ -3,7 +3,7 @@ title: "ポケモンGOチート史：iOS脱獄系チートの歴史【Cydia・JB
 emoji: "🔓"
 type: "tech"
 topics: ["pokemongo", "gaming", "history", "ios", "jailbreak"]
-published: false
+published: true
 ---
 
 :::message
