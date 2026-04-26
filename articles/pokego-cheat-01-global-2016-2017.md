@@ -10,7 +10,7 @@ published: true
 本記事は研究・歴史的記録を目的としたまとめです。チート行為を推奨するものではありません。
 :::
 
-[← シリーズ一覧に戻る](/articles/pokego-cheat-00-overview)
+[← シリーズ一覧に戻る](https://zenn.dev/moss1081/articles/pokego-cheat-00-overview)
 
 # 海外編 2016〜2017年：誕生期とシャドウBAN
 
@@ -104,4 +104,4 @@ Bossland訴訟はGlobal++訴訟より先に起きた、Nianticが法廷で勝利
 
 ---
 
-[次の記事：海外編 2018〜2021年 →](/articles/pokego-cheat-02-global-2018-2021)
+[次の記事：海外編 2018〜2021年 →](https://zenn.dev/moss1081/articles/pokego-cheat-02-global-2018-2021)

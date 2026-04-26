@@ -10,7 +10,7 @@ published: true
 本記事は研究・歴史的記録を目的としたまとめです。チート行為を推奨するものではありません。
 :::
 
-[← シリーズ一覧に戻る](/articles/pokego-cheat-00-overview)
+[← シリーズ一覧に戻る](https://zenn.dev/moss1081/articles/pokego-cheat-00-overview)
 
 # 日本編 2018〜2021年：iSpoofer普及・マジゴー消滅・COVID
 
@@ -126,4 +126,4 @@ GOバトルリーグ（PvP）の実装によりスプーフィング動機が多
 
 ---
 
-[← 日本編 2016〜2017年](/articles/pokego-cheat-04-japan-2016-2017)　|　[次の記事：日本編 2022〜現在 →](/articles/pokego-cheat-06-japan-2022-2026)
+[← 日本編 2016〜2017年](https://zenn.dev/moss1081/articles/pokego-cheat-04-japan-2016-2017)　|　[次の記事：日本編 2022〜現在 →](https://zenn.dev/moss1081/articles/pokego-cheat-06-japan-2022-2026)

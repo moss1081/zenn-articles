@@ -19,14 +19,14 @@ published: true
 | 記事 | 内容 |
 |---|---|
 | 本記事（全体概観） | 10年間の流れと主要転換点の俯瞰 |
-| [海外編 2016〜2017年](/articles/pokego-cheat-01-global-2016-2017) | 誕生期・PokeVision・Necrobot・Unknown6 |
-| [海外編 2018〜2021年](/articles/pokego-cheat-02-global-2018-2021) | iSpoofer・Global++訴訟・COVID・MAD登場 |
-| [海外編 2022〜現在](/articles/pokego-cheat-03-global-2022-2026) | 新AIアンチチート・Scopely買収・ハードウェア化 |
-| [日本編 2016〜2017年](/articles/pokego-cheat-04-japan-2016-2017) | ピゴサ・マジゴー・日本固有エコシステム |
-| [日本編 2018〜2021年](/articles/pokego-cheat-05-japan-2018-2021) | iSpoofer普及・マジゴー消滅・COVID |
-| [日本編 2022〜現在](/articles/pokego-cheat-06-japan-2022-2026) | GOフェスト大阪・Scopely売却・アジアBAN |
-| [Androidインジェクション系](/articles/pokego-cheat-07-android) | PGSharp・Pokemod・PolygonX・技術解説 |
-| [iOS脱獄系](/articles/pokego-cheat-08-ios-jailbreak) | Cydia・JBツール変遷・署名方式の進化 |
+| [海外編 2016〜2017年](https://zenn.dev/moss1081/articles/pokego-cheat-01-global-2016-2017) | 誕生期・PokeVision・Necrobot・Unknown6 |
+| [海外編 2018〜2021年](https://zenn.dev/moss1081/articles/pokego-cheat-02-global-2018-2021) | iSpoofer・Global++訴訟・COVID・MAD登場 |
+| [海外編 2022〜現在](https://zenn.dev/moss1081/articles/pokego-cheat-03-global-2022-2026) | 新AIアンチチート・Scopely買収・ハードウェア化 |
+| [日本編 2016〜2017年](https://zenn.dev/moss1081/articles/pokego-cheat-04-japan-2016-2017) | ピゴサ・マジゴー・日本固有エコシステム |
+| [日本編 2018〜2021年](https://zenn.dev/moss1081/articles/pokego-cheat-05-japan-2018-2021) | iSpoofer普及・マジゴー消滅・COVID |
+| [日本編 2022〜現在](https://zenn.dev/moss1081/articles/pokego-cheat-06-japan-2022-2026) | GOフェスト大阪・Scopely売却・アジアBAN |
+| [Androidインジェクション系](https://zenn.dev/moss1081/articles/pokego-cheat-07-android) | PGSharp・Pokemod・PolygonX・技術解説 |
+| [iOS脱獄系](https://zenn.dev/moss1081/articles/pokego-cheat-08-ios-jailbreak) | Cydia・JBツール変遷・署名方式の進化 |
 
 ---
 

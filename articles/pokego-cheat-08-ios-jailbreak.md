@@ -10,7 +10,7 @@ published: true
 本記事は研究・歴史的記録を目的としたまとめです。チート行為を推奨するものではありません。
 :::
 
-[← シリーズ一覧に戻る](/articles/pokego-cheat-00-overview)
+[← シリーズ一覧に戻る](https://zenn.dev/moss1081/articles/pokego-cheat-00-overview)
 
 # iOS脱獄系チートの歴史
 
@@ -164,4 +164,4 @@ JB系は「機能の深さ」では群を抜くが「手軽さ」「継続性」
 
 ---
 
-[← Androidインジェクション系](/articles/pokego-cheat-07-android)　|　[シリーズ一覧に戻る →](/articles/pokego-cheat-00-overview)
+[← Androidインジェクション系](https://zenn.dev/moss1081/articles/pokego-cheat-07-android)　|　[シリーズ一覧に戻る →](https://zenn.dev/moss1081/articles/pokego-cheat-00-overview)
